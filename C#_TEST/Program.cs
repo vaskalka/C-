@@ -1,50 +1,57 @@
-﻿// //Вывод двумерного массива 
-// void PrintArray(int[,] matr)
+﻿// //Вывести на экран все целые числа от 100 до 200, кратные 3
+// Console.WriteLine("Числа от 100 до 200, кратные 3");
+
+// int currentValue = 100;
+// int reminder = 0;
+
+// for (int i = 0; i < 100; i++)
 // {
-//     for (int rows = 0; rows < matr.GetLength(0); rows++)
-//     {
-//         for (int columns = 0; columns < matr.GetLength(1); columns++)
+//     if (currentValue <= 200)
 //         {
-//             Console.Write($"{matr[rows, columns]} ");
+//             reminder = currentValue % 3;
+//             if (reminder == 0) 
+//             Console.WriteLine($"Число {currentValue} кратно 3");
 //         }
-//         Console.WriteLine();
-//     }    
+//     currentValue++;
 // }
 
-// void FillArray(int[,] matr)
+// // Вывести на экран все целые числа от А до B, кратные заданному С
+
+// Console.WriteLine("Введите число А");
+// int A = int.Parse(Console.ReadLine());
+// Console.WriteLine("Введите число B");
+// int B = int.Parse(Console.ReadLine());
+// Console.WriteLine("Введите число C");
+// int C = int.Parse(Console.ReadLine());
+
+// int currentValue = A;
+// int reminder = 0;
+
+// for (int i = A; i <= B; i++)
 // {
-//     for (int rows = 0; rows < matr.GetLength(0); rows++)
-//     {
-//         for (int columns = 0; columns < matr.GetLength(1); columns++)
-//         {
-//             matr[rows, columns] = new Random().Next(1,10);
-//         }
-//     }
+//     reminder = currentValue % C;
+//     if (reminder == 0)
+//     Console.WriteLine($"Число {currentValue} кратно {C}");
+//     currentValue++;
 // }
 
-// int[,] matrix = new int[3, 4];
-// FillArray(matrix);
-// PrintArray(matrix);
+// Найти сумму целых положительных чисел из промежутка от
+// A до B, кратных 4
 
-// // Первая рекурсия, вывод факториала
-// double Factorial (int n)
-// {
-//     if (n == 1) return 1;
-//     else return n * Factorial(n-1);
-// }
-// for (int i = 1; i < 20; i++)
-// {
-//     Console.WriteLine($"{i}! = {Factorial(i)}");
-// }
+Console.WriteLine("Введите число A");
+int A = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите число B");
+int B = int.Parse(Console.ReadLine());
 
-// Вторая реурсия, вывод последовательности Фибоначи
-int Fibonacci (int n)
+int currentValue = A;
+int reminder = 0;
+int summ = 0;
+
+for (int i = A; i <= B; i++)
 {
-    if (n == 1 || n == 2) return 1;
-    else return Fibonacci(n - 1) + Fibonacci(n - 2);
+    reminder = currentValue % 4;
+    if (reminder == 0) summ = summ + currentValue;
+    currentValue++;
 }
 
-for (int i = 1; i < 20; i++)
-{
-    Console.Write($"{Fibonacci(i)} ");
-}
+Console.WriteLine($"Сумма чисел в промежутке от {A} до {B}, кратных 4, равна {summ}");
