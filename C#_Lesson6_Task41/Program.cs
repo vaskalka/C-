@@ -41,9 +41,6 @@ void checkMoreThenZero(int[] collection, int numOfNumber)
 }
 
 
-
-
-
 Console.WriteLine("Сколько чисел вы хотите ввести? - ");
 int M = int.Parse(Console.ReadLine());
 
