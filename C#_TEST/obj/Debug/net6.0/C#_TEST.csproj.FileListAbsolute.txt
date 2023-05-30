@@ -1,0 +1,30 @@
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.exe
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.deps.json
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.runtimeconfig.json
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.dll
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.pdb
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.csproj.AssemblyReference.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.AssemblyInfoInputs.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.AssemblyInfo.cs
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.csproj.CoreCompileInputs.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.dll
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\refint\C#_TEST.dll
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.pdb
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.genruntimeconfig.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_TEST\obj\Debug\net6.0\ref\C#_TEST.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.exe
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.deps.json
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.runtimeconfig.json
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\bin\Debug\net6.0\C#_TEST.pdb
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.csproj.AssemblyReference.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.AssemblyInfoInputs.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.AssemblyInfo.cs
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.csproj.CoreCompileInputs.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\refint\C#_TEST.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.pdb
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\C#_TEST.genruntimeconfig.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_TEST\obj\Debug\net6.0\ref\C#_TEST.dll

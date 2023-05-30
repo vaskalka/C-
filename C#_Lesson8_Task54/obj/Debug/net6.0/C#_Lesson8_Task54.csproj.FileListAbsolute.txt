@@ -1,0 +1,15 @@
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\bin\Debug\net6.0\C#_Lesson8_Task54.exe
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\bin\Debug\net6.0\C#_Lesson8_Task54.deps.json
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\bin\Debug\net6.0\C#_Lesson8_Task54.runtimeconfig.json
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\bin\Debug\net6.0\C#_Lesson8_Task54.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\bin\Debug\net6.0\C#_Lesson8_Task54.pdb
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\C#_Lesson8_Task54.csproj.AssemblyReference.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\C#_Lesson8_Task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\C#_Lesson8_Task54.AssemblyInfoInputs.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\C#_Lesson8_Task54.AssemblyInfo.cs
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\C#_Lesson8_Task54.csproj.CoreCompileInputs.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\C#_Lesson8_Task54.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\refint\C#_Lesson8_Task54.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\C#_Lesson8_Task54.pdb
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\C#_Lesson8_Task54.genruntimeconfig.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson8_Task54\obj\Debug\net6.0\ref\C#_Lesson8_Task54.dll

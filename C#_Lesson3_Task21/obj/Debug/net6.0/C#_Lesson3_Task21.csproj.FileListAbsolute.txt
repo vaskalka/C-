@@ -1,0 +1,15 @@
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\bin\Debug\net6.0\C#_Lesson3_Task21.exe
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\bin\Debug\net6.0\C#_Lesson3_Task21.deps.json
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\bin\Debug\net6.0\C#_Lesson3_Task21.runtimeconfig.json
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\bin\Debug\net6.0\C#_Lesson3_Task21.dll
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\bin\Debug\net6.0\C#_Lesson3_Task21.pdb
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\C#_Lesson3_Task21.csproj.AssemblyReference.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\C#_Lesson3_Task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\C#_Lesson3_Task21.AssemblyInfoInputs.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\C#_Lesson3_Task21.AssemblyInfo.cs
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\C#_Lesson3_Task21.csproj.CoreCompileInputs.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\C#_Lesson3_Task21.dll
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\refint\C#_Lesson3_Task21.dll
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\C#_Lesson3_Task21.pdb
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\C#_Lesson3_Task21.genruntimeconfig.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson3_Task21\obj\Debug\net6.0\ref\C#_Lesson3_Task21.dll

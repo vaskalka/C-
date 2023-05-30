@@ -1,0 +1,15 @@
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\C#_Lesson5_Task38.csproj.AssemblyReference.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\C#_Lesson5_Task38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\C#_Lesson5_Task38.AssemblyInfoInputs.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\C#_Lesson5_Task38.AssemblyInfo.cs
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\C#_Lesson5_Task38.csproj.CoreCompileInputs.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\bin\Debug\net6.0\C#_Lesson5_Task38.exe
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\bin\Debug\net6.0\C#_Lesson5_Task38.deps.json
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\bin\Debug\net6.0\C#_Lesson5_Task38.runtimeconfig.json
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\bin\Debug\net6.0\C#_Lesson5_Task38.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\bin\Debug\net6.0\C#_Lesson5_Task38.pdb
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\C#_Lesson5_Task38.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\refint\C#_Lesson5_Task38.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\C#_Lesson5_Task38.pdb
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\C#_Lesson5_Task38.genruntimeconfig.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson5_Task38\obj\Debug\net6.0\ref\C#_Lesson5_Task38.dll

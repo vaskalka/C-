@@ -1,0 +1,15 @@
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\C#_Lesson7_Task47.csproj.AssemblyReference.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\C#_Lesson7_Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\C#_Lesson7_Task47.AssemblyInfoInputs.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\C#_Lesson7_Task47.AssemblyInfo.cs
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\C#_Lesson7_Task47.csproj.CoreCompileInputs.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\bin\Debug\net6.0\C#_Lesson7_Task47.exe
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\bin\Debug\net6.0\C#_Lesson7_Task47.deps.json
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\bin\Debug\net6.0\C#_Lesson7_Task47.runtimeconfig.json
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\bin\Debug\net6.0\C#_Lesson7_Task47.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\bin\Debug\net6.0\C#_Lesson7_Task47.pdb
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\C#_Lesson7_Task47.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\refint\C#_Lesson7_Task47.dll
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\C#_Lesson7_Task47.pdb
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\C#_Lesson7_Task47.genruntimeconfig.cache
+C:\Users\vvsto\Desktop\0 HW Geek\C#\C#_Lesson7_Task47\obj\Debug\net6.0\ref\C#_Lesson7_Task47.dll

@@ -1,0 +1,15 @@
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\C#_Lesson4_Task25.csproj.AssemblyReference.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\C#_Lesson4_Task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\C#_Lesson4_Task25.AssemblyInfoInputs.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\C#_Lesson4_Task25.AssemblyInfo.cs
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\C#_Lesson4_Task25.csproj.CoreCompileInputs.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\bin\Debug\net6.0\C#_Lesson4_Task25.exe
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\bin\Debug\net6.0\C#_Lesson4_Task25.deps.json
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\bin\Debug\net6.0\C#_Lesson4_Task25.runtimeconfig.json
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\bin\Debug\net6.0\C#_Lesson4_Task25.dll
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\bin\Debug\net6.0\C#_Lesson4_Task25.pdb
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\C#_Lesson4_Task25.dll
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\refint\C#_Lesson4_Task25.dll
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\C#_Lesson4_Task25.pdb
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\C#_Lesson4_Task25.genruntimeconfig.cache
+C:\Users\vvsto\Desktop\0 hw\C#\C#_Lesson4_Task25\obj\Debug\net6.0\ref\C#_Lesson4_Task25.dll
