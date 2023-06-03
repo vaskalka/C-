@@ -1,57 +1,33 @@
-﻿// //Вывести на экран все целые числа от 100 до 200, кратные 3
-// Console.WriteLine("Числа от 100 до 200, кратные 3");
-
-// int currentValue = 100;
-// int reminder = 0;
-
-// for (int i = 0; i < 100; i++)
-// {
-//     if (currentValue <= 200)
-//         {
-//             reminder = currentValue % 3;
-//             if (reminder == 0) 
-//             Console.WriteLine($"Число {currentValue} кратно 3");
-//         }
-//     currentValue++;
-// }
-
-// // Вывести на экран все целые числа от А до B, кратные заданному С
-
-// Console.WriteLine("Введите число А");
-// int A = int.Parse(Console.ReadLine());
-// Console.WriteLine("Введите число B");
-// int B = int.Parse(Console.ReadLine());
-// Console.WriteLine("Введите число C");
-// int C = int.Parse(Console.ReadLine());
-
-// int currentValue = A;
-// int reminder = 0;
-
-// for (int i = A; i <= B; i++)
-// {
-//     reminder = currentValue % C;
-//     if (reminder == 0)
-//     Console.WriteLine($"Число {currentValue} кратно {C}");
-//     currentValue++;
-// }
-
-// Найти сумму целых положительных чисел из промежутка от
-// A до B, кратных 4
-
-Console.WriteLine("Введите число A");
-int A = int.Parse(Console.ReadLine());
-Console.WriteLine("Введите число B");
-int B = int.Parse(Console.ReadLine());
-
-int currentValue = A;
-int reminder = 0;
-int summ = 0;
-
-for (int i = A; i <= B; i++)
+﻿void FillArray(int[,] collection, int strings, int colums)
 {
-    reminder = currentValue % 4;
-    if (reminder == 0) summ = summ + currentValue;
-    currentValue++;
+    for (int i = 0; i < strings; i++)
+    {
+        for(int j = i; j < colums; j++)
+        {
+            collection[i, j] = (i+1) * (j+1);
+            collection[j, i] = collection[i, j];
+        }
+    }
 }
 
-Console.WriteLine($"Сумма чисел в промежутке от {A} до {B}, кратных 4, равна {summ}");
+void PrintArray(int[,] collection, int strings, int colums)
+{
+    for (int i = 0; i < strings; i++)
+    {
+        for(int j = 0; j < colums; j++)
+        {
+            Console.Write($"{collection[i, j]} ");
+        }
+        Console.WriteLine();
+    }
+}
+
+Console.WriteLine("Введите кол-во строк массива N");
+int N = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите кол-во столбцов массива M");
+int M = int.Parse(Console.ReadLine());
+
+int[,] array = new int[N, M];
+
+FillArray(array, N, M);
+PrintArray(array, N, M);
