@@ -14,7 +14,7 @@ void PrintArray(string[] Array, int ArrayLength)
     Console.WriteLine("Ваш массив: ");
     for(int i = 0; i < ArrayLength; i++)
     {
-        Console.Write($"{Array[i]} ");
+        Console.Write($"({Array[i]}) ");
     }
     Console.WriteLine();
 }
@@ -22,20 +22,30 @@ void PrintArray(string[] Array, int ArrayLength)
 
 void NewArrayLessOrEquallyThreeSimbols(string[] Array, int ArrayLength)
 {
-    string[] NewArray = new string[ArrayLength];
     int Counter = 0;
     for(int i = 0; i < ArrayLength; i++)
     {
         if(Array[i].Length <= 3)
         {
-            NewArray[Counter] = Array[i];
             Counter++;
+        }
+    } 
+
+    string[] NewArray = new string[Counter];
+    int NewIndex = 0;
+    for(int i = 0; i < ArrayLength; i++)
+    {
+        if(Array[i].Length <= 3)
+        {
+            NewArray[NewIndex] = Array[i];
+            NewIndex++;
         }
     }    
     Console.WriteLine("Отсортированный массив по кол-ву символов в элементе: ");
-    PrintArray(NewArray, ArrayLength);
+    PrintArray(NewArray, Counter);
     Console.WriteLine($"Кол-во элементов <= 3: {Counter}");
 }
+
 
 Console.WriteLine("Введите количество символов массива: ");
 int ArrayLength = int.Parse(Console.ReadLine());
